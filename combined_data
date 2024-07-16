@@ -1,0 +1,566 @@
+{
+    "ItalyRatingRed": [
+        {
+            "name": "Layer Cake Primitivo aka Zinfandel 2008",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "A balance of elegance and power; inky black fruit, spice and white pepper, jammy black cherries, plums, blackberry fruit, truffles, tar, and espresso. Warm and rich in the mouth with a creamy texture; slight notes of chalky Puglia terroir, the ripe fruit is well supported by the deep structure of the wine. Imagine a cool fall evening, a warm blaze crackling in the fireplace, the wine rich and intriguing, like stories told by old friends."
+        },
+        {
+            "name": "Le Berne Vino Nobile di Montepulciano 2011",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "The grapes, about 90% of which are Sangiovese (known as Prugnolo gentile in Montepulciano) and small quantities of Canaiolo Nero and Mammolo, are gathered after an accurate selection at the precise moment of ripening. After vinification the wine is aged for at least two years in oak barrels and six months in bottles. The result is a ruby red wine tending to garnet red, which has a delicate fragrance and violet aroma, with a dry and slightly tannic flavor."
+        },
+        {
+            "name": "Le Casematte Nero d'Avola 2015",
+            "grape": NaN,
+            "region": "Sicily, Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "#95"
+        },
+        {
+            "name": "Le Chiuse Brunello di Montalcino 2008",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with light garnet hues. Intense scent with easy memories of blueberry, small fruits, black currant and cherry. It is easy to appreciate also notes of violet, mineral hints of flint and spicy scents. Great body and elegance. Neat with good complexity. In the mouth it shows all the character of a great wine, with good persistence, elegant and refined tannins. "
+        },
+        {
+            "name": "Le Chiuse Brunello di Montalcino Riserva 2009",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Intense, ruby red in color with garnet hues, this very aromatic wine shows violet, prune, pepper, spice and licorice on the nose. Full-bodied, savory with fruit and spices confirmed on this refined palate. Long and silky."
+        },
+        {
+            "name": "Le Chiuse Rosso di Montalcino 2015",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "This wine has a shining, clear appearance and is ruby red in color. It has a good fragrance and intensity with the recognizable scent of small fresh fruits. To the taste, the wine is dry with a good persistence. It is ready to drink, even if kept for some time."
+        },
+        {
+            "name": "Le Corti Chianti Classico 2011",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "This blend of Sangiovese, Canaiolo and Colorino undergoes a fermentation process lasts 20 days, with a maxtemperature of 28\u00b0 C., in open air tanks with temperaturecontrol system. The grapes are inoculated with selected indigenous yeasts."
+        },
+        {
+            "name": "Le Corti Chianti Classico 2012",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Le Corti Chianti Classico is a deep red color and offers a natural elegance. The nose has the freshness of wild little flowers, violets and roses, plus earthy notes, which have the depth and the delicate strengths of ripe fruit, with wild strawberries, cherries and plums, and with a finish of red orange and tamarind. The palate is voracious: the natural minerality of the soil increase the perception of the smooth body on the palate, with dense but silky tannins and hints of leather and pepper. A little masterpiece of classicism, withthe typical characteristics and lightness of Sangiovese, almost anethereal floral and fruity structure with gentle tannins and licorice notes. "
+        },
+        {
+            "name": "Le Corti Don Tommaso Chianti Classico 2009",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Very intense ruby, almost like cranberry juice. Elegant nose of incense, bay leaves, black pepper and sandalwood as well as a basket of black cherries and wild blackberry. Mouth filled with fruity notes, roasted coffee and vanilla that stay in the background with the amarena and blackcurrant on the main stage. Beautifulbody, soft and rich tannins, just sweet with the final references back to the fruit mixed with hot spices, cardamom and incense."
+        },
+        {
+            "name": "Le Fonti Chianti Classico 2009",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Grown in rather rocky, loamy soil at about 300 meters above sea level, the grapes (100% Sangiovese) are hand-harvested using small crates. In the cellar, they are cold-soaked for about 10 days. 30% of the wine is aged in barriques, while the rest ages in the traditional fiberglass-lined cement tanks. The wine is released after 6 months of bottle ageing. "
+        },
+        {
+            "name": "Le Macchiole (1.5 Liter Magnum) 2013",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "#97"
+        },
+        {
+            "name": "Le Macchiole 1999",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "95% Sangiovese, 5% Cabernet Sauvignon."
+        },
+        {
+            "name": "Le Macchiole 2006",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Intense ruby color with violet reflections. Spicy notes of green pepper and vanilla, small red fruits very intense and persistent. It's an elegant wine, well balanced. Tannins give a long fresh sensation, with a sweet closing"
+        },
+        {
+            "name": "Le Macchiole 2008",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Brilliant ruby colour, this wine exhibits aromas of red fruits, blueberries, blackberries, spices and light, well-integrated vanilla notes. Medium-bodies, it possesses sweet, ripe tannins, and a balanced, refreshing acidity."
+        },
+        {
+            "name": "Le Macchiole 2009",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "Brilliant ruby color, this wine exhibits aromas of red fruits, blueberries, blackberries, spices and light, well-integrated vanilla notes. Medium-bodies, it possesses sweet, ripe tannins, and a balanced, refreshing acidity."
+        },
+        {
+            "name": "Le Macchiole 2013",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "#97"
+        },
+        {
+            "name": "Le Macchiole 2012",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Bolgheri Rosso is a fresh and elegant blend of 50% Merlot, 30% Cabernet Franc and 20% Syrah. Brilliant ruby in color, this wine exhibits aromas of red fruits, blueberries, blackberries, spices and light, well-integrated vanilla notes. Medium-bodied, it possesses sweet, ripe tannins, and a balanced, refreshing acidity."
+        },
+        {
+            "name": "Le Macchiole Messorio 2005",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Messorio is widely considered to be one of Bolgheri's, if not Italy's, most outstanding renditions of pure Merlot. Intense ruby red with violet notes, tremendous ripe berry fruit on the nose with hints of pepper, spice, vanilla and voluptuous in body, with jammy red fruit exotic innuendoes, and smooth tannins"
+        },
+        {
+            "name": "Le Macchiole Paleo 2008",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Deep ruby red color. Notes of blackcurrant, coffee, green tea and spices. A full bodied wine, very rich and deep in mouth, with very thick and elegant tannins. A long aging wine, with a strong character."
+        },
+        {
+            "name": "Le Macchiole Scrio 2001",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Deep and crisp ruby red color. Very persistent balsamic notes. Round in tasting, its acidity gently melts with sweet tannins. Hints of mint and eucaliptus."
+        },
+        {
+            "name": "Le Macchiole Scrio 2005",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "From the beginning, Scrio had a special place in the heart of Eugenio Campolmi, a great lover of the Syrahs of the Northern Rh\u00f4ne. Today, Le Macchiole's Scrio is unquestionably one of the finest Syrah's of Italy "
+        },
+        {
+            "name": "Le Macchiole Scrio 2011",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Inspired by the esteemed wines of the Northern Rhone - specifically, Cote Rotie - Scrio is made from 100% Syrah, originating from two French clones. The resulting wine is dark, layered with smoke, graphite and blackberries."
+        },
+        {
+            "name": "Le Potazzine Gorelli Brunello di Montalcino 2008",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with garnet reflections. The nose is deep and intense, with hints of soft fruit aromas as well as ripe fruit in an elegant contrast. The palate is austere and round but velvety, with enduring intensity and persistence."
+        },
+        {
+            "name": "Le Potazzine Gorelli Brunello di Montalcino 2009",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with garnet reflections. This wine shows deep, intense aromas with hints of soft fruit aromas as well as ripe fruit in an elegant contrast. Austere flavors, round but velvety, with enduring intensity and persistence."
+        },
+        {
+            "name": "Le Potazzine Rosso di Montalcino 2012",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with warm garnet scents. An initial fruity interlacing blends with sensations of red-berry fruits as well as soft fruit, with light flowery lacework. Spicy and mineral finish. Dynamic, tasty, tapering body, properly tannic, with a particularly intense and persistent aftertaste."
+        },
+        {
+            "name": "Le Potazzine Rosso di Montalcino 2014",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with warm garnet notes. The nose is fruity, with aromas of red berries, slight floral notes, with a spicy and mineral finish. Dynamic, flavorful, and elegant on the palate with a correctly tannic, intense and persistent aftertaste."
+        },
+        {
+            "name": "Le Ragose Amarone Della Valpolicella 2005",
+            "grape": NaN,
+            "region": "Valpolicella, Veneto, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Dense, ripe and lush berries with a hint of dark chocolate. This is a wine of power and elegance, harmonic and enticing. The finish is long and satisfying. "
+        },
+        {
+            "name": "Le Salette Amarone Classico 2011",
+            "grape": NaN,
+            "region": "Veneto, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": " Deep ruby red robe with an intense and highly developed nose  with notes of dry herbs, prunes and cherries. Full-bodied with a velvety, warm mouthfeel and a long finish. "
+        },
+        {
+            "name": "Le Salette La Marega Amarone 2012",
+            "grape": NaN,
+            "region": "Veneto, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Dark ruby red color with garnet highlights. Intense perfumes of black cherries, toasted almonds and cocoa bean on the nose.  This wine is elegant and structured with a long finish."
+        },
+        {
+            "name": "Le Terrazze Rosso Conero 2009",
+            "grape": NaN,
+            "region": "Marche, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "A brilliant ruby red, on the nose it is intense and fruity with ripe red fruits, a perfect example of classic Montepulciano-wines from this region. Rich, full-bodied, warm, fresh, with soft tannins and a long finish."
+        },
+        {
+            "name": "Leone de Castris Primitivo di Manduria Villa Santera 2009",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "The Primitivo di Manduria Villa Santera is rich purple in color. The bouquet is rich in cherry, spiced tobacco and toasted notes. It is a full-bodied wine, warm and soft on the palate with flavors that continue to evolve. "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2006",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Intense ruby-red in color with garnet reflections, the wine has concentrated aromas of black cherries, plums and blackberries, along with spiced notes of vanilla and licorice. Particularly suitable for roasted red meat, aged steak cuts, rotisseries and aged cheeses. "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2010",
+            "grape": NaN,
+            "region": "Puglia, Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "Wine of an intense red color with garnet colored hints, made of Negroamaro and Malvasia Nera. On the nose, fruity sensations of blackberry and black cherry, notes of basil and sweet spices due to the refinement in oak barrels. On the palate, smooth and balanced with a strong but never intrusive tannin. Long lasting finish.  "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2014",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "This wine is ruby-red in color with expressive notes of ripe plum mingled with blackberry jam and sweet spice. On the palate, Maiana is full-bodied and robust. "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2015",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "Intense ruby-red in color, concentrated aromas of black cherries and baked red fruits complement undertones of plums, spices, vanilla, and anise. On the palate, velvety tannins and a full body frame the long, delectable finish of stewed strawberries and vanilla beans."
+        }
+    ],
+    "ItalyRatingWhite": [
+        {
+            "name": "Layer Cake Primitivo aka Zinfandel 2008",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "A balance of elegance and power; inky black fruit, spice and white pepper, jammy black cherries, plums, blackberry fruit, truffles, tar, and espresso. Warm and rich in the mouth with a creamy texture; slight notes of chalky Puglia terroir, the ripe fruit is well supported by the deep structure of the wine. Imagine a cool fall evening, a warm blaze crackling in the fireplace, the wine rich and intriguing, like stories told by old friends."
+        },
+        {
+            "name": "Le Berne Vino Nobile di Montepulciano 2011",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "The grapes, about 90% of which are Sangiovese (known as Prugnolo gentile in Montepulciano) and small quantities of Canaiolo Nero and Mammolo, are gathered after an accurate selection at the precise moment of ripening. After vinification the wine is aged for at least two years in oak barrels and six months in bottles. The result is a ruby red wine tending to garnet red, which has a delicate fragrance and violet aroma, with a dry and slightly tannic flavor."
+        },
+        {
+            "name": "Le Casematte Nero d'Avola 2015",
+            "grape": NaN,
+            "region": "Sicily, Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "#95"
+        },
+        {
+            "name": "Le Chiuse Brunello di Montalcino 2008",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with light garnet hues. Intense scent with easy memories of blueberry, small fruits, black currant and cherry. It is easy to appreciate also notes of violet, mineral hints of flint and spicy scents. Great body and elegance. Neat with good complexity. In the mouth it shows all the character of a great wine, with good persistence, elegant and refined tannins. "
+        },
+        {
+            "name": "Le Chiuse Brunello di Montalcino Riserva 2009",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Intense, ruby red in color with garnet hues, this very aromatic wine shows violet, prune, pepper, spice and licorice on the nose. Full-bodied, savory with fruit and spices confirmed on this refined palate. Long and silky."
+        },
+        {
+            "name": "Le Chiuse Rosso di Montalcino 2015",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "This wine has a shining, clear appearance and is ruby red in color. It has a good fragrance and intensity with the recognizable scent of small fresh fruits. To the taste, the wine is dry with a good persistence. It is ready to drink, even if kept for some time."
+        },
+        {
+            "name": "Le Corti Chianti Classico 2011",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "This blend of Sangiovese, Canaiolo and Colorino undergoes a fermentation process lasts 20 days, with a maxtemperature of 28\u00b0 C., in open air tanks with temperaturecontrol system. The grapes are inoculated with selected indigenous yeasts."
+        },
+        {
+            "name": "Le Corti Chianti Classico 2012",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Le Corti Chianti Classico is a deep red color and offers a natural elegance. The nose has the freshness of wild little flowers, violets and roses, plus earthy notes, which have the depth and the delicate strengths of ripe fruit, with wild strawberries, cherries and plums, and with a finish of red orange and tamarind. The palate is voracious: the natural minerality of the soil increase the perception of the smooth body on the palate, with dense but silky tannins and hints of leather and pepper. A little masterpiece of classicism, withthe typical characteristics and lightness of Sangiovese, almost anethereal floral and fruity structure with gentle tannins and licorice notes. "
+        },
+        {
+            "name": "Le Corti Don Tommaso Chianti Classico 2009",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Very intense ruby, almost like cranberry juice. Elegant nose of incense, bay leaves, black pepper and sandalwood as well as a basket of black cherries and wild blackberry. Mouth filled with fruity notes, roasted coffee and vanilla that stay in the background with the amarena and blackcurrant on the main stage. Beautifulbody, soft and rich tannins, just sweet with the final references back to the fruit mixed with hot spices, cardamom and incense."
+        },
+        {
+            "name": "Le Fonti Chianti Classico 2009",
+            "grape": NaN,
+            "region": "Chianti Classico, Chianti, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Grown in rather rocky, loamy soil at about 300 meters above sea level, the grapes (100% Sangiovese) are hand-harvested using small crates. In the cellar, they are cold-soaked for about 10 days. 30% of the wine is aged in barriques, while the rest ages in the traditional fiberglass-lined cement tanks. The wine is released after 6 months of bottle ageing. "
+        },
+        {
+            "name": "Le Macchiole (1.5 Liter Magnum) 2013",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "#97"
+        },
+        {
+            "name": "Le Macchiole 1999",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "95% Sangiovese, 5% Cabernet Sauvignon."
+        },
+        {
+            "name": "Le Macchiole 2006",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Intense ruby color with violet reflections. Spicy notes of green pepper and vanilla, small red fruits very intense and persistent. It's an elegant wine, well balanced. Tannins give a long fresh sensation, with a sweet closing"
+        },
+        {
+            "name": "Le Macchiole 2008",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Brilliant ruby colour, this wine exhibits aromas of red fruits, blueberries, blackberries, spices and light, well-integrated vanilla notes. Medium-bodies, it possesses sweet, ripe tannins, and a balanced, refreshing acidity."
+        },
+        {
+            "name": "Le Macchiole 2009",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "Brilliant ruby color, this wine exhibits aromas of red fruits, blueberries, blackberries, spices and light, well-integrated vanilla notes. Medium-bodies, it possesses sweet, ripe tannins, and a balanced, refreshing acidity."
+        },
+        {
+            "name": "Le Macchiole 2013",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "#97"
+        },
+        {
+            "name": "Le Macchiole 2012",
+            "grape": NaN,
+            "region": "Bolgheri, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Bolgheri Rosso is a fresh and elegant blend of 50% Merlot, 30% Cabernet Franc and 20% Syrah. Brilliant ruby in color, this wine exhibits aromas of red fruits, blueberries, blackberries, spices and light, well-integrated vanilla notes. Medium-bodied, it possesses sweet, ripe tannins, and a balanced, refreshing acidity."
+        },
+        {
+            "name": "Le Macchiole Messorio 2005",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Messorio is widely considered to be one of Bolgheri's, if not Italy's, most outstanding renditions of pure Merlot. Intense ruby red with violet notes, tremendous ripe berry fruit on the nose with hints of pepper, spice, vanilla and voluptuous in body, with jammy red fruit exotic innuendoes, and smooth tannins"
+        },
+        {
+            "name": "Le Macchiole Paleo 2008",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Deep ruby red color. Notes of blackcurrant, coffee, green tea and spices. A full bodied wine, very rich and deep in mouth, with very thick and elegant tannins. A long aging wine, with a strong character."
+        },
+        {
+            "name": "Le Macchiole Scrio 2001",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Deep and crisp ruby red color. Very persistent balsamic notes. Round in tasting, its acidity gently melts with sweet tannins. Hints of mint and eucaliptus."
+        },
+        {
+            "name": "Le Macchiole Scrio 2005",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "From the beginning, Scrio had a special place in the heart of Eugenio Campolmi, a great lover of the Syrahs of the Northern Rh\u00f4ne. Today, Le Macchiole's Scrio is unquestionably one of the finest Syrah's of Italy "
+        },
+        {
+            "name": "Le Macchiole Scrio 2011",
+            "grape": NaN,
+            "region": "Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Inspired by the esteemed wines of the Northern Rhone - specifically, Cote Rotie - Scrio is made from 100% Syrah, originating from two French clones. The resulting wine is dark, layered with smoke, graphite and blackberries."
+        },
+        {
+            "name": "Le Potazzine Gorelli Brunello di Montalcino 2008",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with garnet reflections. The nose is deep and intense, with hints of soft fruit aromas as well as ripe fruit in an elegant contrast. The palate is austere and round but velvety, with enduring intensity and persistence."
+        },
+        {
+            "name": "Le Potazzine Gorelli Brunello di Montalcino 2009",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with garnet reflections. This wine shows deep, intense aromas with hints of soft fruit aromas as well as ripe fruit in an elegant contrast. Austere flavors, round but velvety, with enduring intensity and persistence."
+        },
+        {
+            "name": "Le Potazzine Rosso di Montalcino 2012",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with warm garnet scents. An initial fruity interlacing blends with sensations of red-berry fruits as well as soft fruit, with light flowery lacework. Spicy and mineral finish. Dynamic, tasty, tapering body, properly tannic, with a particularly intense and persistent aftertaste."
+        },
+        {
+            "name": "Le Potazzine Rosso di Montalcino 2014",
+            "grape": NaN,
+            "region": "Montalcino, Tuscany, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Ruby red with warm garnet notes. The nose is fruity, with aromas of red berries, slight floral notes, with a spicy and mineral finish. Dynamic, flavorful, and elegant on the palate with a correctly tannic, intense and persistent aftertaste."
+        },
+        {
+            "name": "Le Ragose Amarone Della Valpolicella 2005",
+            "grape": NaN,
+            "region": "Valpolicella, Veneto, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Dense, ripe and lush berries with a hint of dark chocolate. This is a wine of power and elegance, harmonic and enticing. The finish is long and satisfying. "
+        },
+        {
+            "name": "Le Salette Amarone Classico 2011",
+            "grape": NaN,
+            "region": "Veneto, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": " Deep ruby red robe with an intense and highly developed nose  with notes of dry herbs, prunes and cherries. Full-bodied with a velvety, warm mouthfeel and a long finish. "
+        },
+        {
+            "name": "Le Salette La Marega Amarone 2012",
+            "grape": NaN,
+            "region": "Veneto, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Dark ruby red color with garnet highlights. Intense perfumes of black cherries, toasted almonds and cocoa bean on the nose.  This wine is elegant and structured with a long finish."
+        },
+        {
+            "name": "Le Terrazze Rosso Conero 2009",
+            "grape": NaN,
+            "region": "Marche, Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "A brilliant ruby red, on the nose it is intense and fruity with ripe red fruits, a perfect example of classic Montepulciano-wines from this region. Rich, full-bodied, warm, fresh, with soft tannins and a long finish."
+        },
+        {
+            "name": "Leone de Castris Primitivo di Manduria Villa Santera 2009",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "The Primitivo di Manduria Villa Santera is rich purple in color. The bouquet is rich in cherry, spiced tobacco and toasted notes. It is a full-bodied wine, warm and soft on the palate with flavors that continue to evolve. "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2006",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 90.0,
+            "notes": "Intense ruby-red in color with garnet reflections, the wine has concentrated aromas of black cherries, plums and blackberries, along with spiced notes of vanilla and licorice. Particularly suitable for roasted red meat, aged steak cuts, rotisseries and aged cheeses. "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2010",
+            "grape": NaN,
+            "region": "Puglia, Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "Wine of an intense red color with garnet colored hints, made of Negroamaro and Malvasia Nera. On the nose, fruity sensations of blackberry and black cherry, notes of basil and sweet spices due to the refinement in oak barrels. On the palate, smooth and balanced with a strong but never intrusive tannin. Long lasting finish.  "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2014",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "This wine is ruby-red in color with expressive notes of ripe plum mingled with blackberry jam and sweet spice. On the palate, Maiana is full-bodied and robust. "
+        },
+        {
+            "name": "Leone de Castris Salice Salentino Riserva 2015",
+            "grape": NaN,
+            "region": "Italy",
+            "variety": "Red Wine",
+            "rating": 89.0,
+            "notes": "Intense ruby-red in color, concentrated aromas of black cherries and baked red fruits complement undertones of plums, spices, vanilla, and anise. On the palate, velvety tannins and a full body frame the long, delectable finish of stewed strawberries and vanilla beans."
+        }
+    ]
+}
